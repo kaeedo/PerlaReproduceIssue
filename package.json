@@ -1,0 +1,20 @@
+{
+  "name": "perlareproduceissue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "install": "dotnet tool restore",
+    "build": "dotnet fable ./src/App -o ./build/client --run vite build",
+    "start": "dotnet fable watch ./src/App -s -o ./build/client --runFast vite --open"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vite": "2.7.13"
+  },
+  "dependencies": {
+    "etebase": "0.43.1"
+  }
+}

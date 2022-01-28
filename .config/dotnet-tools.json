@@ -13,12 +13,6 @@
       "commands": [
         "fantomas"
       ]
-    },
-    "perla": {
-      "version": "0.20.0",
-      "commands": [
-        "perla"
-      ]
     }
   }
 }
