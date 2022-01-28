@@ -1,0 +1,6 @@
+{
+  "imports": {
+    "etebase": "https://cdn.skypack.dev/pin/etebase@v0.43.1-e7wZ5PHTiBV3LLxxVXz3/mode=imports/optimized/etebase.js"
+  },
+  "scopes": {}
+}

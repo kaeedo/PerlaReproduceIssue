@@ -1,0 +1,10 @@
+{
+  "$schema": "https://raw.githubusercontent.com/AngelMunoz/Perla/v0.20.0/perla.schema.json",
+  "index": "./index.html",
+  "fable": {
+    "project": "./src/App/App.fsproj"
+  },
+  "packages": {
+    "etebase": "https://cdn.skypack.dev/pin/etebase@v0.43.1-e7wZ5PHTiBV3LLxxVXz3/mode=imports/optimized/etebase.js"
+  }
+}
